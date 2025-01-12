@@ -1,10 +1,11 @@
 # nodejs-docker-aws-ecs
 
 AWS Project - CI CD Pipeline to AWS ECS for Docker App + CodeCommit + CodeBuild + CodeDeploy
-Here's the [YouTube Video](https://youtu.be/knFabwOn1JE).
+Here's the [YouTube Video].
 
+```
 <a href="https://www.buymeacoffee.com/scaleupsaas"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=scaleupsaas&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
+```
 
 ## Installation
 
@@ -13,7 +14,7 @@ Follow next steps in order to install nodejs app and create a dockerimage
 ### Step 1 - Git clone 
 
 ```
-git clone https://github.com/saasscaleup/nodejs-ssl-server.git
+git clone https://github.com/meherabmct/node-aws-cicd
 ```
 
 ```
@@ -42,6 +43,7 @@ docker run -dp 3000:3000 nodejs-server-demo
  2. Buy me A coffee ❤️ : https://www.buymeacoffee.com/scaleupsaas
 
 Thanks for your support :)
-
+```
 <a href="https://www.buymeacoffee.com/scaleupsaas"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=scaleupsaas&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
+```

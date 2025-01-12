@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saasscaleup/nodejs-ssl-server.git"
+    "url": "git+https://github.com/meherabmct/node-aws-cicd"
   },
   "keywords": [
     "nodejs",
@@ -25,9 +25,9 @@
   "author": "Scale-Up SaaS",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/saasscaleup/nodejs-ssl-server/issues"
+    "url": "https://github.com/meherabmct/node-aws-cicd"
   },
-  "homepage": "https://github.com/saasscaleup/nodejs-ssl-server#readme",
+  "homepage": "https://github.com/meherabmct/node-aws-cicd",
   "dependencies": {
     "express": "^4.18.2"
   }
